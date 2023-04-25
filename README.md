@@ -17,6 +17,7 @@ The code requires the following libraries to run:<br>
 To run the code, simply execute the following command in your terminal: <br>
 
 `python model.py`
+
 <br>
 The code will load the dataset, preprocess it, split it into training and testing sets, scale the data, create and fit a logistic regression model, make predictions on the test set, and evaluate the accuracy of the model.<br>
 <br>
