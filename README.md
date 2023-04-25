@@ -39,8 +39,8 @@ As you can see, the model has a high precision and recall for both classes, indi
 ### Future Work
 Some possible improvements or extensions for this project are:<br>
 
-Try different models such as KNN, SVM, or neural networks and compare their performance<br>
-Perform feature selection or dimensionality reduction to reduce the number of features and avoid overfitting<br>
-Explore different hyperparameters or regularization techniques to optimize the model<br>
-Visualize the decision boundary or the feature importance of the model<br>
-Deploy the model as a web service or a mobile app<br>
+1. Try different models such as KNN, SVM, or neural networks and compare their performance.<br>
+2. Perform feature selection or dimensionality reduction to reduce the number of features and avoid overfitting.<br>
+3. Explore different hyperparameters or regularization techniques to optimize the model.<br>
+4. Visualize the decision boundary or the feature importance of the model.<br>
+5. Deploy the model as a web service or a mobile app.<br>
